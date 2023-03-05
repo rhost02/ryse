@@ -1,0 +1,391 @@
+
+The population growth of Ryse has been increasing. More people are migrating and 
+repopulating. In fact, the growth of the kingdom's economy over the past years 
+has attracted many people from neighboring empires. However, the kingdom is slowly 
+running out of housing properties. Would you like to build more housing space
+for your kingdom's people?_
+
+As more people are migrating and repopulating, the population of children is 
+also increasing exponentially. One of the Royal Enforcers, Christopher, 
+announced that he would soon have his second child and advised that the 
+kingdom's educational system should cover most children's population, if 
+not all. Would you like to build more guilds and temples for the children?_
+
+As the population grows, it is also important to provide the people with their 
+needs and commodities and strengthen the kingdom's overall economy. Marshal Manix 
+fears that there could be shortages in stockpiles and caches. Would you like to 
+establish more trading shops for the people?_
+
+Aside from establishing trading shops, many migrators are willing to negotiate and 
+trade their goods with our people. The councilors and advisors of Kingdom Ryse 
+concluded that these merchants could help boost our kingdom's economic growth and 
+stability. Are you allowing more merchants to work around the kingdom?_
+
+Various health risks are increasing as the population grows around the kingdom. Some 
+of these deadly diseases have already affected General Luke's and Nikola's families. 
+This issue can further worsen the welfare of more people if it is not addressed as 
+soon as possible. Are you willing to build more hospitals for the people?_
+
+The population of Ryse has been increasing for the past few months. The demand for 
+new buildings such as inns, monasteries, and guilds is getting louder and louder as 
+days go by. Increasing the housing would help give residents their own houses and 
+accommodate merchants and travelers in the kingdom. The problem is that the kingdom 
+lacks the needed workforce to keep up with the demands of the population for shelter.  
+Would you sacrifice a portion of the kingdom's army to strengthen the workforce and 
+speed up construction?_
+
+During rainy seasons, some parts of the kingdom experience heavy flooding and overflow. 
+Many people have complained about this environmental issue, as their livelihoods and 
+homes are heavily affected. Advisor Udonis thinks the council should respond as soon 
+as possible, or it could significantly impact people's welfare. Are you willing to 
+sacrifice an amount of the kingdom's resources to fix the areas of the kingdom that 
+are prone to flooding?_
+
+As more inhabitants populate the kingdom, the unemployment rate is also increasing. 
+As a result, the crime rate within the empire is also becoming concerning. This has 
+struck fear in many residents that are living around the kingdom. General Luke suggests 
+that the military should consider using a portion of their army to ensure temporary 
+protection for the people while the council plans for a long-term solution. Would you 
+accept this suggestion from one of your well-trusted Generals?_
+
+During summer seasons, some parts of the kingdom experience heavy droughts and 
+water shortages. Many people's livelihoods are affected by this concern, and it 
+is also causing a rapid increase in health risks among the residents. Farmer 
+Juanito suggests that the council should provide more water supplies during these 
+seasons, as it would tremendously help compensate for the lack of rain and water 
+downpours. Are you willing to use some of your excess resources to provide water 
+supply to these areas during the summer seasons?_
+
+Aside from physical health concerns, various mental problems among the residents 
+are becoming more prevalent as time passes. These mental illnesses have mainly 
+affected the children and young adolescents of the empire. As a result, their 
+performances in their respective guilds have also been negatively affected. Advisor 
+Udonis recommends that the council should establish more temples and monasteries 
+for more healers and priests to help individuals with mental illness. Would you 
+accept this recommendation from one of your advisors?_
+
+Kingdom Malayan is rich in various resources, such as gold, silver, wood, food, etc. 
+Spymaster Barnes has full details of these resources and thinks that overrunning their 
+kingdom would help us gain the resources we need to augment the wealth and prosperity of 
+our kingdom. Would you like to conquer their territory?_
+
+Similar to our kingdom, other empires and domains are also rich in different resources. 
+Spymaster Barnes thinks that vanquishing them might be a significant expense to our 
+military, but it would help us gain more riches and resources for our kingdom. Would you 
+like to conquer more territories?_
+
+Treasurer Muscala plans for a better and more prosperous future for the Kingdom since he 
+has noticed the increase in employment and workers around the empire. He believes that 
+extracting more minerals and goods would tremendously help with the wealth of our kingdom. 
+Are you willing to pump more gold?_
+
+As the population of Kingdom Ryse increases, the demand for different products is 
+also growing. Personal ornaments and cult objects, such as jewelry, tableware, 
+figurines, and other items, are becoming more prevalent in the kingdom. However, 
+a significant amount of silver minerals are needed to produce these products. Are 
+you willing to extract more silver?_
+
+Establishing housing space, monasteries, guilds, and other buildings have significantly 
+cost many of the Kingdom's resources. One of the most common resources used in installing 
+these infrastructures is wood. Would you like to increase the production of wood?_
+
+Several councilors and advisors of Kingdom Ryse suggested that the empire should consider 
+expanding the food source so more people could have access and more options for these 
+resources. They think gathering food from aquatic sources would help with this objective. 
+Are you willing to sail more ships for fishing purposes?_
+
+Treasurer Candice was among the people who joined the fishermen in the ships used for 
+fishing. While navigating the sea with the fishers, she discovered several islands that 
+are good sources of oil. These oils can help Kingdom Ryse with its economy and military 
+needs. Would you like to send workers to these islands to extract more oil for our empire?_
+
+The councilors of Ryse have devised a plan to rapidly increase the kingdom's water supply 
+and ensure the people's survival against the upcoming droughts. Although considering the 
+impacts of the said plan, the council was bothered as it would involve bombing and digging 
+holes around the territory which trades off the pristine condition of the place. As the 
+kingdom's ruler, you are responsible for making the final decision. Would you permit the 
+council to carry out its plan?_
+
+As the kingdom expands its borders for more people and infrastructures, the supply of 
+building materials, such as stones, is slowly decreasing. On the bright side, several 
+travelers from our kingdom discovered nearby caves from our empire. Are you willing to 
+send out workers to these caverns for stone mining?_
+
+For the past few years, the population has been rising exponentially. The demand for 
+food is also on an upward trend. Some of your advisors think that increasing the production 
+of meat, which is the most common food source around the kingdom, would help solve this 
+problem. Are you willing to permit them to implement this plan?_
+
+Warden Gortat has received many complaints from many individuals that the supply of 
+charcoal has been slowly declining. This mineral is essential for fuel supply, especially 
+for blacksmiths that forge different tools and metal equipment. Are you willing to cut 
+down a portion of the kingdom's forest to resupply charcoal to the people?_
+
+As the economy and population of Kingdom Ryse further grow, the demand for heavy-duty 
+equipment, such as iron tools, is also increasing. These tools are mostly made up of 
+iron metals. However, the supply of iron is slowly declining as more tools are being 
+created yearly. Are you willing to excavate and use some of the caverns around the 
+kingdom to resupply iron?_
+
+Kingdom Ryse is an empire filled with craftsmen. These people create different kinds 
+of products that they could use for trade and marketing. Some of the most common products 
+that these individuals create are adornments and cutting tools that are made up of minerals, 
+such as diamonds. Are you willing to exploit some of the caverns around the kingdom to 
+supply this mineral?_
+
+A group of unknown bandits was able to escape our kingdom, carrying some of the stored 
+riches and wealth of Kingdom Ryse. It was believed that our neighboring kingdom sent out 
+these bandits to steal resources from our empire. Are you willing to set up a military 
+operation to retrieve the stolen goods of our kingdom?_
+
+Grand Diplomat Trevor has found out that Kingdom Malfoy is slowly overtaking our kingdom 
+when it comes to riches and wealth. They have established different methods for increasing 
+the production of their resources. Grand Diplomat Trevor came up with the idea of setting 
+up a military operation to steal at least a portion of their resources and their methods 
+of production. This action could potentially paint a bad image to the leaders and council 
+of this kingdom, but it would exponentially increase the production of resources. Are you 
+willing to accept Gran Diplomat Trevor's plan?_
+
+Past battles and conflicts have cost a lot of military equipment. Most of the gears used 
+by our army were severely damaged. General Luke requests to replenish the military 
+equipment and gears in preparation for future conflicts and battles. Are you willing to 
+spend our resources to buy more armor plates for your troops?_
+
+Many veterans from the army have officially retired, and many young recruits are joining 
+the military to serve Kingdom Ryse. The recruits entering the army are double the amount 
+of the veterans retiring. General Nikola noticed that the current training exercises would 
+not be able to hold up the total amount of trainees. Would you like to spend our riches 
+and wealth to implement more training exercises?_
+
+Military equipment, such as swords, has also been used and destroyed during the past 
+battles our troops have encountered. General Luke requested support in the production 
+of these military tools and equipment. Are you willing to use our resources to craft 
+more swords for your forces?_
+
+According to General Nikola, expanding our combat capability is significant for the 
+growth of our military. Adding more range weapons, such as ranged bows, in our battles 
+against external threats would help with this goal. Are you willing to craft more bows 
+and arrows for your troops?_
+
+Marshal Manix observed that some of our neighboring realms had fallen due to other 
+external threats conquering their territory. He thinks that this indicates that our 
+empire should be ready for any kind of external force that could threaten the state 
+of our kingdom. Would you like to improve the defensive scheme of the kingdom?_
+
+Upon inspection of military equipment and gears, General Douglas noticed that a huge 
+portion of the army only wore leather boots during training and exercises. He thinks 
+every troop should have at least a pair of medieval fighting boots since it is an 
+added defense to their bodies during battles. Are you willing to spend some of your 
+resources to provide more fighting boots for your army?_
+
+One of your advisors, Loid, is convincing you to deploy an army that commander Gortac 
+would lead to siege a tower from the Rival Kingdom of Malfoy. Based on the gathered intel, 
+the tower that would be sieged houses enslaved people who are abused and held captive by 
+the rival kingdom. Loid believes the tower contains abundant supplies of silk and people 
+that can be converted to serve Ryse as fellow warriors. Would you follow the advice of 
+your fellow advisor?_
+
+According to General Luke, military equipment, such as armor plates, is getting outdated. 
+He thinks that it is now the time to upgrade these military gears to further prepare the 
+Kingdom for potential threats and conflicts that might transpire in the future. Would you 
+like to upgrade the armor plates of our troops?_
+
+Advisor Loid suggests that our army should further evolve into superior fighters as years 
+pass by. He implies that upgrading the primary fighting tool, which is the sword, would 
+tremendously help achieve this goal. Are you willing to upgrade the swords of your forces?_
+
+During our recent siege from the Rival Kingdom of Malfoy, General Douglas noticed the 
+lack of firepower from our ranged fighters. He thinks that our empire needs to upgrade 
+the ranged tools of our army, which are the bow and crossbow. Would you like to spend 
+some of our wealth and resources to upgrade the military's ranged weaponry?_
+
+General Nikola plans for a better and stronger army in preparation for future external 
+threats that may put our kingdom in danger. He thinks recruiting more troops and upgrading 
+military equipment isn't enough to put the strength of our military on another level. He 
+requested the council to provide them with enough resources to build artillery weapons to 
+provide them more firepower during battles. Are you willing to accept this request by one 
+of your Generals?_
+
+As the military further upgrades and stores its equipment and weapons, the main 
+headquarters of our army is running out of space. General Luke thinks that upgrading 
+and renovating portions of the bases would solve this issue. It would also increase 
+the quality of military telecommunications and coordination during battles. Would you 
+like to use some of the kingdom's resources to reconstruct and upgrade the main headquarters 
+of our military base?_
+
+As more recruits join the army, the training and exercise spaces are slowly running out of 
+room. According to General Douglas, most of the training camps of the military base can only 
+house a limited number of troops per exercise. However, the significant increase in recruits 
+has overloaded some of these training camps. As a result, they are decreasing the quality of 
+training and conditioning for most troops. Are you willing to sacrifice a portion of our land 
+and resources to expand these training camps of our military bases?_
+
+During the Kingdom's recent battle against unknown invaders, many of our forces got severely 
+injured and hurt in some exchange. Royal Enforcer Christopher reported that the conflict caused 
+several casualties; some troops died in action and others from their wounds. He was emotional 
+and furious with the combat medic department since the losses could have been avoided if they 
+had responded quickly. He requests the council to provide more resources for better combat 
+medic training within the military. Would you like to accept this permission from one of your 
+Royal Enforcers?_
+
+Based on the evaluation of General Luke in the past military training and exercises, he noticed 
+that the army lacked mobility when it came to traveling long distances. He suggested that the 
+military should consider building more chariots for the military troops to use during battles and 
+conflicts. These chariots would further help the forces transport from one area to another in a 
+shorter time. Are you willing to build more chariot cars for military use?_
+
+Blaise, the queen of Ryse's neighboring kingdom, proposes to build a connecting path to mobilize 
+and improve the trading of resources between kingdoms. In the letter she gave you, she enthusiastically 
+discussed that her proposition would help efficiently collect resources and improve the relationship 
+between the two territories. Would you write her back and accept the proposal?_
+
+In the southern part of Ryse, a kingdom is known for its big battleships and talented sailors. 
+Its people are known as the Mudoskanians and are believed to be the mighty conquerors of the 
+seven seas. Unfortunately, a recent tsunami brought chaos into their kingdom and devastated 
+them as they witnessed their ships being carried towards the ocean. The kingdom's ruler 
+sought help from various domains, but no one was willing to help. As he presents himself in 
+front of you and your throne, pleading for alliance in exchange for the survival of his people, 
+he also promises to support Ryse during battles and wars. Would you be helping the Mudoskanians 
+rebuild their lives and kingdom?_
+
+Your kingdom is known to be surrounded by a lot of forests. Up North, the famous Shadeev forest 
+is estimated to house 2000 trees and serves as the kingdom's primary source of wood. The king 
+of Azlamazo, a kingdom rich in earth metals, took an interest in Ryse's abundant hardwood 
+resource and proposed a joint project with you as its ruler. Azlamazo's king suggested that both 
+your kingdom and his would make an effort to mass produce battle weapons in exchange for cutting 
+down 40 percent of the trees in Shadeev Forest. If you agreed, 50 percent of the battle weapons 
+made would be given to Ryse. Would you accept the proposal of Azlamazo's king and consent to the 
+joint project?_
+
+The knights that the past ruler has ordered to go on an expedition around the lands of Myansor 
+have come back to report their findings. They proudly told you how their journey went and how they 
+found friends on an island they had stayed for five days. The small civilization the knights have 
+discovered has taken your interest, and they were known as the Magantos. The knights have also 
+stated that the small civilization's survival is at risk because of the inadequate food supply. 
+Would you send a message to the Magantos, telling them that you are willing to help them improve 
+their civilization survival in exchange for being Ryse's colony? By agreeing with the decision of 
+sending a message to the Magantos, you have decided to also send a portion of your kingdom's troops 
+as a gift and bribe for them to agree._
+
+The tensions between the kingdom of Aster and Krimula, both of which your kingdom has close relations, 
+have gone into turmoil as knights of Krimula independently attacked one of Aster's barracks. To 
+retaliate, Aster's ruler sent out an army and ordered them to raid the beautiful towers located on 
+the outskirts of Krimula. Aster's ruler wrote a message to you and asked for your aid to once and 
+all destroy the beautiful kingdom of Krimula. Would you aid and side with the kingdom of Aster?_
+
+Famine ravaged a nearby kingdom's population as the bandits calling themselves Mesozanians started 
+a fire to various farmlands, which turned the abundant crops of potatoes and rice into ashes. Would 
+you be so kind to spare a portion of Ryse's food supply to help the affected kingdom get through 
+the famine they are experiencing?_
+
+It was reported that thirty of your miners have been trapped in the skull cavern while they were 
+gathering a lot of precious ingots and gold. Swiftly asking the kingdom of Aster for Help, they 
+agreed to join the rescue mission only if they would receive 35 percent of the ingots the miners 
+have gathered. Would you be willing to make a deal with the kingdom of Aster?_
+
+The ruler of Krimula personally visited you in your kingdom today. He was eager to talk to you 
+about diplomatic topics. Specifically, he was thinking of making a treaty that would enable merchants 
+to set up their stores inside the kingdoms. He emphasized that this would help in strengthening 
+the relationship between Krimula and Ryse. It would also make other materials or items easier 
+to access for your people and their people. But to be able to successfully set up stores and make 
+the treaty possible, the ruler of Krimula emphasized the need for both kingdoms to provide a 
+little space for the merchants to sell and trade. Would you take part in signing the treaty or would 
+you reject the diplomatic suggestion of the Krimula's ruler?_
+
+Air pollution is an environmental issue that affects not only Ryse but its neighboring kingdoms. 
+Over the decades, the temperature rise and prolonged droughts have devastated livelihoods and survival 
+of people. Disasters such as tsunamis and typhoons have also intensified. The main contributor to air 
+pollution is charcoal. Being a material that is overly used by kingdoms to process materials, it must 
+be lessened. Henry together with his wife Averrel, king and queen of Azurasa, invited other kingdom 
+rulers into a meeting. The aim of the meeting is to unite kingdoms in combating the environmental 
+issue of air pollution. Sean and Averrel were emphasizing that kingdoms would have to provide resources 
+and share materials if the issue wants to be solved. Would you attend the meeting and join the other 
+kingdoms in combatting the issue of air pollution?_
+
+One of the weakest parts of Ryse is the absence of seaports which limits the trade and mobility of 
+the kingdom. Numerous reports were addressed to the council of Ryse that the seaports must be built 
+so the kingdom could be open to easier trading with other kingdoms and make visitations of foreign 
+rulers easier rather than using chariots. Although building a seaport does open the kingdom to make 
+relations with other faraway kingdoms, it is costly and requires a lot of materials such as wood. 
+Would you still insist on building a seaport for the kingdom?_
+
+The kingdom's scholars of Alchemy, more famously known as the Pyres, have discovered 
+an effective method of cleaning the polluted bodies of water surrounding the territory. 
+By using sugarcane together with dried bamboo husks, the salt concentration of water 
+can be lowered. The Pyres suggested that it is an excellent way of preserving the 
+condition of the land. Still, the materials needed to cure the pollution are already 
+reserved for other essential uses, such as making paper and wines, which are traded to 
+other kingdoms for strong earth metals. The metals are then used to construct swords 
+for the kingdom's warriors. Should the Pyres proceed in treating the waters surrounding 
+the territory and use the supply of sugarcanes/Dried Bamboo Husks?_
+
+The demand for food around the kingdom has increased over the past few years. The production 
+of meat has helped compensate for the high need for these kinds of resources. However, some 
+of your advisors think this production would not be enough as the demands are expected to 
+increase further in the next few years. Pigs are one of the primary sources of meat around 
+the Kingdom. Would you like to expand the farming space for pigs?_
+
+Jizelle is one of the inhabitants of a nearby village just outside Ryse. She visited your 
+kingdom to tell you that the other villagers were willing to join your kingdom in exchange 
+for maintaining their community's well-known Terrace which is known to produce tons of rice 
+that other kingdoms take interest in and trade with. Recently, their village got under 
+attack by a bunch of bandits which call themselves Mesozanians. The bandits took control 
+of the village while the villagers ran for their survival. Would you help Jizelle and the 
+other villagers to cast the bandits out of their village so that the beautiful terraces would 
+be maintained and be a part of your kingdom?_
+
+Based on the reports of the kingdom's scholars, much known as the Pyres, the deforestation 
+activity of the kingdom has taken a great toll as wood became the primary source for charcoal. 
+Often used to smelt ores and provide heat during the winter season, charcoal is an integral 
+part of the kingdom's welfare. Sadly, the frequency of deforestation activities made a large 
+gap between the time it takes for trees to regrow and how many trees are being taken down. 
+What the Pyres suggested was to first rehabilitate the forests where loggers chop down trees 
+by replanting and stop the operations so that the area could rejuvenate its resources. But by 
+taking the advice of the Pyres the economy and resources of the kingdom would be affected. 
+Would you consider the advice of the Pyres?_
+
+Local farmers in the kingdom are facing a disastrous situation as their tilled lands have 
+slowly degraded due to the limited amount of land they could plant crops. As stated by Avereal, 
+one of the well-known farmers in the kingdom, the continuous plantation of crops has exhausted 
+the nutrients in the soil which makes it unusable. Thankfully, the kingdom's alchemists (The Pyres) 
+have researched and formed a fertilizer in the past that could easily return the soil to its 
+best condition. All it takes to produce the fertilizer is a bunch of salt minerals, egg, vinegar, 
+and coffee beans. The materials would be mixed together and heated at a high temperature. Should 
+you request the Pyres to mass produce fertilizers for the farmers to use so that the condition of 
+the kingdom's food supplies remains unaffected?_
+
+Farmers in the kingdom are requesting to have a better irrigation system making use of drainages 
+and proper water pathways so that the quality of lands and crops produced would be consistent. 
+The farmers suggested using metal pipes so it would not entirely change the terrain of their 
+farmlands. Through the help of Ryse's blacksmiths, iron ingots could be turned into pipes and 
+improve the agricultural sector of the kingdom. Would you take the opportunity to improve or 
+install irrigation systems on the kingdom's large farmlands so they would not be affected during 
+droughts and desertification?_
+
+The increased frequency of droughts the kingdom is experiencing in the past decade and the 
+deteriorating quality of crops produced by farmers is due to the heavily polluted air of the 
+area caused by the continuous burning of charcoal. The council of the kingdom is deciding 
+whether to limit coal usage in the kingdom or to just leave the situation be since the process 
+of burning charcoal is integral to the production of economic and military needs of the kingdom. 
+Would you order the kingdom to limit its coal usage even though it would make a great impact 
+on the welfare of the people?_
+
+The council of your own kingdom presented a plan to make large artificial ponds so fishing 
+could be easier and environmentally friendly. As the council members have reported, the 
+contamination of nearby shores is a byproduct of dynamite fishing which is a common practice 
+by fishermen. The residue of gunpowder pollutes the water and seeps into the soil but it makes 
+the local fisheries in the kingdom run their business and make the food supply staple. Would 
+you approve the plan of the council and make an artificial pond?_
+
+The Kingdom of Ryse is vulnerable to landslides and soil erosion. Based on its geography, 
+the far right of the kingdom extends to the mountainous terrain of Asgoft. Architects and 
+Engineers of the kingdom have suggested over the years to build a brace around the outer side 
+of Asgoft mountain. But the construction has always been postponed or canceled due to the 
+longevity and enormous amount of materials needed. Would you finally consider the construction 
+of proper bracing around the areas where soil erosion could potentially originate?_
+
+General Luke, one of the greatest tacticians in the kingdom, wants to map out the nearby 
+forests, mountains, and bodies of water so that the kingdom could fully understand its 
+surroundings. He would like to request a small portion of the knights to protect him and 
+help him map out the areas which he thinks would be useful for the kingdom. Would you order 
+General Luke to Map out the nearby terrains and territories of the kingdom?_
